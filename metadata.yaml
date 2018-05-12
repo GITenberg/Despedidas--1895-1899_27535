@@ -1,0 +1,31 @@
+_repo: Despedidas--1895-1899_27535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nobre, António Pereira
+    alias: Nobre, Antonio
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '7211'
+    url: http://www.gutenberg.org/2009/agents/7211
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/António_Nobre
+    - http://en.wikipedia.org/wiki/António_Nobre
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27535'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+title: 'Despedidas: 1895-1899'
+url: http://www.gutenberg.org/ebooks/27535
